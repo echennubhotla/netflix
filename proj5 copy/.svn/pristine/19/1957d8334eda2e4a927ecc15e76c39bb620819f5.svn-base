@@ -1,0 +1,12 @@
+Esha Chennubhotla
+20395126
+Project 5
+
+In lab 7, we used a double array, so for Project 5, I made a list of Users and went through the 
+list of users and compared their ratings to the user who is logged in. The code to find the similar
+user was pretty much the same thing to lab 7, I just had different lists of users and movies instead
+of rows and columns. After finding the similar user, I checked to see if the ratings of the similar user's
+was greater than 3 and if so I checked if the current user already watched it or if it was already
+in the list of recommended movies. If not, I added it to the list of recommended movies. Anytime
+a new user watches a new movies or changes the rating, the recommended movies gets updated because each
+time it does the process of finding a similar user each time so it is updated and accurate.
