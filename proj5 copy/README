@@ -1,6 +1,6 @@
 Esha Chennubhotla
 20395126
-Project 5
+Project 5 - USFLIX
 
 In lab 7, we used a double array, so for Project 5, I made a list of Users and went through the 
 list of users and compared their ratings to the user who is logged in. The code to find the similar
